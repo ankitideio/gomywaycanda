@@ -1,0 +1,25 @@
+"/Users/apple/Documents/gomywayride/Pods/Alamofire/Source/HTTPHeaders.swift":
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/HTTPHeaders.o"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/HTTPHeaders.swiftdeps"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/HTTPHeaders.dia"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/HTTPHeaders.d"
+"/Users/apple/Documents/gomywayride/Pods/Alamofire/Source/EventMonitor.swift":
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/EventMonitor.d"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/EventMonitor.dia"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/EventMonitor.swiftdeps"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/EventMonitor.o"
+"/Users/apple/Documents/gomywayride/Pods/Alamofire/Source/Concurrency.swift":
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Concurrency.d"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Concurrency.o"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Concurrency.dia"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Concurrency.swiftdeps"
+"/Users/apple/Documents/gomywayride/Pods/Alamofire/Source/Combine.swift":
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Combine.d"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Combine.swiftdeps"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Combine.o"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Combine.dia"
+"/Users/apple/Documents/gomywayride/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift":
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/DispatchQueue+Alamofire.swiftdeps"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/DispatchQueue+Alamofire.o"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/DispatchQueue+Alamofire.d"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/DispatchQueue+Alamofire.dia"

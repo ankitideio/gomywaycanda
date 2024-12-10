@@ -1,0 +1,25 @@
+"/Users/apple/Documents/gomywayride/Pods/Alamofire/Source/ParameterEncoder.swift":
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ParameterEncoder.swiftdeps"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ParameterEncoder.d"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ParameterEncoder.o"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ParameterEncoder.dia"
+"/Users/apple/Documents/gomywayride/Pods/Alamofire/Source/ParameterEncoding.swift":
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ParameterEncoding.d"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ParameterEncoding.swiftdeps"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ParameterEncoding.o"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ParameterEncoding.dia"
+"/Users/apple/Documents/gomywayride/Pods/Alamofire/Source/Protected.swift":
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Protected.d"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Protected.dia"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Protected.o"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Protected.swiftdeps"
+"/Users/apple/Documents/gomywayride/Pods/Alamofire/Source/RedirectHandler.swift":
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RedirectHandler.d"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RedirectHandler.swiftdeps"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RedirectHandler.o"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RedirectHandler.dia"
+"/Users/apple/Documents/gomywayride/Pods/Alamofire/Source/OperationQueue+Alamofire.swift":
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/OperationQueue+Alamofire.dia"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/OperationQueue+Alamofire.o"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/OperationQueue+Alamofire.swiftdeps"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/OperationQueue+Alamofire.d"

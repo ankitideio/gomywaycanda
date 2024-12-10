@@ -1,0 +1,20 @@
+"/Users/apple/Documents/gomywayride/Pods/FacebookCore/Sources/Core/AppEvents/AppEvent.Builtin.swift":
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/AppEvent.Builtin.d"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/AppEvent.Builtin.o"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/AppEvent.Builtin.dia"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/AppEvent.Builtin.swiftdeps"
+"/Users/apple/Documents/gomywayride/Pods/FacebookCore/Sources/Core/Common/AccessToken.swift":
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/AccessToken.swiftdeps"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/AccessToken.d"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/AccessToken.dia"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/AccessToken.o"
+"/Users/apple/Documents/gomywayride/Pods/FacebookCore/Sources/Core/AppEvents/AppEvent.swift":
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/AppEvent.dia"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/AppEvent.d"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/AppEvent.swiftdeps"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/AppEvent.o"
+"/Users/apple/Documents/gomywayride/Pods/FacebookCore/Sources/Core/AppEvents/AppEventName.swift":
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/AppEventName.swiftdeps"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/AppEventName.o"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/AppEventName.dia"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/AppEventName.d"

@@ -1,0 +1,30 @@
+"/Users/apple/Documents/gomywayride/Pods/FacebookShare/Sources/Share/Content/Common/ContentSharingResultProtocol.swift":
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/ContentSharingResultProtocol.d"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/ContentSharingResultProtocol.dia"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/ContentSharingResultProtocol.swiftdeps"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/ContentSharingResultProtocol.o"
+"/Users/apple/Documents/gomywayride/Pods/FacebookShare/Sources/Share/Dialogs/ContentSharingDialogProtocol.swift":
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/ContentSharingDialogProtocol.o"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/ContentSharingDialogProtocol.dia"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/ContentSharingDialogProtocol.swiftdeps"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/ContentSharingDialogProtocol.d"
+"/Users/apple/Documents/gomywayride/Pods/FacebookShare/Sources/Share/Content/Common/ContentProtocol.swift":
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/ContentProtocol.dia"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/ContentProtocol.swiftdeps"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/ContentProtocol.o"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/ContentProtocol.d"
+"/Users/apple/Documents/gomywayride/Pods/FacebookShare/Sources/Share/Content Sharing/ContentSharingProtocol.swift":
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/ContentSharingProtocol.o"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/ContentSharingProtocol.d"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/ContentSharingProtocol.swiftdeps"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/ContentSharingProtocol.dia"
+"/Users/apple/Documents/gomywayride/Pods/FacebookShare/Sources/Share/Internal/ContentBridger.swift":
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/ContentBridger.d"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/ContentBridger.swiftdeps"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/ContentBridger.o"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/ContentBridger.dia"
+"/Users/apple/Documents/gomywayride/Pods/FacebookShare/Sources/Share/Dialogs/GameRequest/GameRequest.swift":
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/GameRequest.dia"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/GameRequest.o"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/GameRequest.swiftdeps"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/GameRequest.d"

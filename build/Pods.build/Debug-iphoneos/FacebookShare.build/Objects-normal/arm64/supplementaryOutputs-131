@@ -1,0 +1,30 @@
+"/Users/apple/Documents/gomywayride/Pods/FacebookShare/Sources/Share/Dialogs/GameRequest/GameRequest.Recipient.swift":
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/GameRequest.Recipient.o"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/GameRequest.Recipient.swiftdeps"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/GameRequest.Recipient.d"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/GameRequest.Recipient.dia"
+"/Users/apple/Documents/gomywayride/Pods/FacebookShare/Sources/Share/Dialogs/GameRequest/GameRequest.ActionType.swift":
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/GameRequest.ActionType.dia"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/GameRequest.ActionType.o"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/GameRequest.ActionType.d"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/GameRequest.ActionType.swiftdeps"
+"/Users/apple/Documents/gomywayride/Pods/FacebookShare/Sources/Share/Dialogs/GameRequest/GameRequest.RecipientsFilter.swift":
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/GameRequest.RecipientsFilter.d"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/GameRequest.RecipientsFilter.o"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/GameRequest.RecipientsFilter.swiftdeps"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/GameRequest.RecipientsFilter.dia"
+"/Users/apple/Documents/gomywayride/Pods/FacebookShare/Sources/Share/Dialogs/GameRequest/GameRequest.Result.swift":
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/GameRequest.Result.o"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/GameRequest.Result.dia"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/GameRequest.Result.d"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/GameRequest.Result.swiftdeps"
+"/Users/apple/Documents/gomywayride/Pods/FacebookShare/Sources/Share/Dialogs/GameRequest/GameRequest.SDKDelegate.swift":
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/GameRequest.SDKDelegate.o"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/GameRequest.SDKDelegate.swiftdeps"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/GameRequest.SDKDelegate.d"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/GameRequest.SDKDelegate.dia"
+"/Users/apple/Documents/gomywayride/Pods/FacebookShare/Sources/Share/Dialogs/GameRequest/GameRequest.Dialog.swift":
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/GameRequest.Dialog.d"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/GameRequest.Dialog.swiftdeps"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/GameRequest.Dialog.o"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/GameRequest.Dialog.dia"

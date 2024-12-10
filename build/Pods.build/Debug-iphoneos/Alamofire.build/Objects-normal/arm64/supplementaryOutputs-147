@@ -1,0 +1,25 @@
+"/Users/apple/Documents/gomywayride/Pods/Alamofire/Source/MultipartFormData.swift":
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartFormData.swiftdeps"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartFormData.d"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartFormData.o"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartFormData.dia"
+"/Users/apple/Documents/gomywayride/Pods/Alamofire/Source/Notifications.swift":
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Notifications.swiftdeps"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Notifications.d"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Notifications.dia"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Notifications.o"
+"/Users/apple/Documents/gomywayride/Pods/Alamofire/Source/HTTPMethod.swift":
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/HTTPMethod.swiftdeps"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/HTTPMethod.d"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/HTTPMethod.o"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/HTTPMethod.dia"
+"/Users/apple/Documents/gomywayride/Pods/Alamofire/Source/NetworkReachabilityManager.swift":
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/NetworkReachabilityManager.o"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/NetworkReachabilityManager.dia"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/NetworkReachabilityManager.d"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/NetworkReachabilityManager.swiftdeps"
+"/Users/apple/Documents/gomywayride/Pods/Alamofire/Source/MultipartUpload.swift":
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartUpload.o"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartUpload.d"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartUpload.swiftdeps"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartUpload.dia"

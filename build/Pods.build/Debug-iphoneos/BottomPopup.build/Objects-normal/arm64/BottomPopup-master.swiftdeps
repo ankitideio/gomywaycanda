@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "c58f6d07e421fe0d8d018a702f0dcfaf5978f96f9cb8596585dc638f837aa00b"
+build_start_time: [1670914618, 898494958]
+build_end_time: [1670914638, 24188995]
+inputs:
+  "/Users/apple/Documents/gomywayride/Pods/BottomPopup/BottomPopup/BottomPopupController/BottomPopupDismissAnimator.swift": [1664424417, 0]
+  ? "/Users/apple/Documents/gomywayride/Pods/BottomPopup/BottomPopup/BottomPopupController/BottomPopupDismissInteractionController.swift"
+  : [1664424417, 0]
+  "/Users/apple/Documents/gomywayride/Pods/BottomPopup/BottomPopup/BottomPopupController/BottomPopupNavigationController.swift": [1664424417, 0]
+  "/Users/apple/Documents/gomywayride/Pods/BottomPopup/BottomPopup/BottomPopupController/BottomPopupPresentAnimator.swift": [1664424417, 0]
+  "/Users/apple/Documents/gomywayride/Pods/BottomPopup/BottomPopup/BottomPopupController/BottomPopupPresentationController.swift": [1664424417, 0]
+  "/Users/apple/Documents/gomywayride/Pods/BottomPopup/BottomPopup/BottomPopupController/BottomPopupTransitionHandler.swift": [1664424417, 0]
+  "/Users/apple/Documents/gomywayride/Pods/BottomPopup/BottomPopup/BottomPopupController/BottomPopupUtils.swift": [1664424417, 0]
+  "/Users/apple/Documents/gomywayride/Pods/BottomPopup/BottomPopup/BottomPopupController/BottomPopupViewController.swift": [1664424417, 0]

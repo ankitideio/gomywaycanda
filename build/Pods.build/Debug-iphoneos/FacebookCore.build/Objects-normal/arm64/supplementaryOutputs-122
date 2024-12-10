@@ -1,0 +1,20 @@
+"/Users/apple/Documents/gomywayride/Pods/FacebookCore/Sources/Core/AppEvents/AppEventsLogger.swift":
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/AppEventsLogger.swiftdeps"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/AppEventsLogger.o"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/AppEventsLogger.d"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/AppEventsLogger.dia"
+"/Users/apple/Documents/gomywayride/Pods/FacebookCore/Sources/Core/AppEvents/AppEventParameterName.swift":
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/AppEventParameterName.d"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/AppEventParameterName.swiftdeps"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/AppEventParameterName.o"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/AppEventParameterName.dia"
+"/Users/apple/Documents/gomywayride/Pods/FacebookCore/Sources/Core/AppEvents/AppEventsLogger.FlushBehavior.swift":
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/AppEventsLogger.FlushBehavior.swiftdeps"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/AppEventsLogger.FlushBehavior.dia"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/AppEventsLogger.FlushBehavior.d"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/AppEventsLogger.FlushBehavior.o"
+"/Users/apple/Documents/gomywayride/Pods/FacebookCore/Sources/Core/Internal/Extensions/Dictionary+KeyValueMap.swift":
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/Dictionary+KeyValueMap.swiftdeps"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/Dictionary+KeyValueMap.o"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/Dictionary+KeyValueMap.d"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/Dictionary+KeyValueMap.dia"

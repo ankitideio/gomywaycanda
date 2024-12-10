@@ -1,0 +1,25 @@
+"/Users/apple/Documents/gomywayride/Pods/FacebookShare/Sources/Share/Content/OpenGraph/OpenGraphPropertyValue.swift":
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/OpenGraphPropertyValue.dia"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/OpenGraphPropertyValue.d"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/OpenGraphPropertyValue.o"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/OpenGraphPropertyValue.swiftdeps"
+"/Users/apple/Documents/gomywayride/Pods/FacebookShare/Sources/Share/Content/Photo/Photo.swift":
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/Photo.swiftdeps"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/Photo.d"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/Photo.o"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/Photo.dia"
+"/Users/apple/Documents/gomywayride/Pods/FacebookShare/Sources/Share/Content/OpenGraph/OpenGraphShareContent.swift":
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/OpenGraphShareContent.d"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/OpenGraphShareContent.swiftdeps"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/OpenGraphShareContent.dia"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/OpenGraphShareContent.o"
+"/Users/apple/Documents/gomywayride/Pods/FacebookShare/Sources/Share/Content/OpenGraph/OpenGraphPropertyName.swift":
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/OpenGraphPropertyName.dia"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/OpenGraphPropertyName.o"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/OpenGraphPropertyName.d"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/OpenGraphPropertyName.swiftdeps"
+"/Users/apple/Documents/gomywayride/Pods/FacebookShare/Sources/Share/Content/Photo/PhotoShareContent.swift":
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/PhotoShareContent.dia"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/PhotoShareContent.d"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/PhotoShareContent.o"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/PhotoShareContent.swiftdeps"

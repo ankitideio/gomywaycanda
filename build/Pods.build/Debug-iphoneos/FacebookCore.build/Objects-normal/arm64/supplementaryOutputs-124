@@ -1,0 +1,20 @@
+"/Users/apple/Documents/gomywayride/Pods/FacebookCore/Sources/Core/GraphRequest/GraphRequestProtocol.swift":
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/GraphRequestProtocol.dia"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/GraphRequestProtocol.swiftdeps"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/GraphRequestProtocol.o"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/GraphRequestProtocol.d"
+"/Users/apple/Documents/gomywayride/Pods/FacebookCore/Sources/Core/GraphRequest/GraphRequestProtocol.Bridge.swift":
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/GraphRequestProtocol.Bridge.swiftdeps"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/GraphRequestProtocol.Bridge.d"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/GraphRequestProtocol.Bridge.dia"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/GraphRequestProtocol.Bridge.o"
+"/Users/apple/Documents/gomywayride/Pods/FacebookCore/Sources/Core/GraphRequest/GraphRequestResult.swift":
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/GraphRequestResult.d"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/GraphRequestResult.swiftdeps"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/GraphRequestResult.dia"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/GraphRequestResult.o"
+"/Users/apple/Documents/gomywayride/Pods/FacebookCore/Sources/Core/GraphRequest/GraphRequestDataAttachment.swift":
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/GraphRequestDataAttachment.swiftdeps"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/GraphRequestDataAttachment.o"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/GraphRequestDataAttachment.dia"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookCore.build/Objects-normal/arm64/GraphRequestDataAttachment.d"

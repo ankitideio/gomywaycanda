@@ -1,0 +1,10 @@
+framework module BottomPopup {
+  umbrella header "BottomPopup-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module BottomPopup.__Swift {
+  exclude header "BottomPopup-Swift.h"
+}

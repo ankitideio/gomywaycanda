@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/apple/Documents/gomywayride/build/Debug-iphoneos/BottomPopup/BottomPopup.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/BottomPopup.build/unextended-module.modulemap",
+    }]
+  }]
+}

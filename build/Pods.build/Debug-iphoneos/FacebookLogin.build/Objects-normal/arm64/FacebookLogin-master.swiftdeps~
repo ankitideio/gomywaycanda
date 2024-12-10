@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "58991b09246417ab3d8d6e583283dfbb53d8dca328273e2a11864682d5e614cb"
+build_start_time: [1670914623, 903754949]
+build_end_time: [1670914624, 43068885]
+inputs:
+  "/Users/apple/Documents/gomywayride/Pods/FacebookLogin/Sources/Login/LoginBehavior.swift": !private [1664424417, 0]
+  "/Users/apple/Documents/gomywayride/Pods/FacebookLogin/Sources/Login/LoginButton.Tooltip.swift": !private [1664424417, 0]
+  "/Users/apple/Documents/gomywayride/Pods/FacebookLogin/Sources/Login/LoginButton.swift": !private [1664424417, 0]
+  "/Users/apple/Documents/gomywayride/Pods/FacebookLogin/Sources/Login/LoginButtonDelegate.swift": !private [1664424417, 0]
+  "/Users/apple/Documents/gomywayride/Pods/FacebookLogin/Sources/Login/LoginButtonDelegateBridge.swift": !private [1664424417, 0]
+  "/Users/apple/Documents/gomywayride/Pods/FacebookLogin/Sources/Login/LoginDefaultAudience.swift": !private [1664424417, 0]
+  "/Users/apple/Documents/gomywayride/Pods/FacebookLogin/Sources/Login/LoginManager.swift": !private [1664424417, 0]
+  "/Users/apple/Documents/gomywayride/Pods/FacebookLogin/Sources/Login/LoginResult.swift": !private [1664424417, 0]

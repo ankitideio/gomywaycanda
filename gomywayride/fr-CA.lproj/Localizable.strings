@@ -1,0 +1,155 @@
+/* 
+  Localizable.strings
+  gomywayride
+
+  Created by meet sharma on 22/08/23.
+  Copyright © 2023 Snow-Macmini-1. All rights reserved.
+*/
+
+
+"login" = "CONNEXION";
+"userName" = "Email/Nom d'utilisateur";
+"password" = "Mot de passe";
+"rememberMe" = "Se souvenir de moi";
+"forgotPassword" = "Mot de passe oublié?";
+"alreadyAccount" = "Vous avez déjà un compte?";
+"registerHere" = "Inscrivez-vous ici!";
+"register" = "S'INSCRIRE";
+"firstName" = "Prénom";
+"lastName" = "Nom de famille";
+"userName" = "Nom d'utilisateur";
+"dateOfBirth" = "Date de naissance";
+"emailAddress" = "Adresse e-mail";
+"uploadProfile" = "Télécharger une photo de profil";
+"uploadIdProof" = "Télécharger une photo de pièce d'identité";
+"gender" = "Genre";
+"male" = "Homme";
+"female" = "Femme";
+"others" = "Autre";
+"iamDriver" = "Je suis un conducteur";
+"signup" = "INSCRIPTION";
+"loginHere" = "Connectez-vous ici!";
+"forgotYourPassword" = "Mot de passe oublié";
+"forgotPasswordTitle" = "Entrez votre adresse e-mail ci-dessous pour recevoir des instructions de réinitialisation du mot de passe";
+"resendLink" = "ENVOYER LE LIEN DE RÉINITIALISATION";
+"back" = "Retour";
+"phoneVerification" = "Vérification du numéro de téléphone";
+"phoneVerifyTitle" = "Saisissez votre numéro de téléphone pour recevoir le code de vérification dans votre e-mail";
+"verifyCodeText" = "Vous recevrez un code de vérification dans votre e-mail pour vérifier ce numéro de téléphone";
+"chooseCountryCode" = "Choisir le code de pays";
+"enterMobileNumber" = "Saisissez votre numéro de mobile";
+"verify" = "Vérifier";
+"logout" = "Déconnexion";
+"verifyEmail" = "Vérifiez votre e-mail";
+"verifyEmailTitle" = "Vérification de l'e-mail envoyée avec succès à votre adresse e-mail";
+"emailVerification" = "Veuillez vérifier votre e-mail, nous vous l'avons envoyé";
+"resendVerification" = "Renvoyer la vérification";
+"changeLanguage" = "Changer de langue";
+"verifyOtp" = "Vérification OTP";
+"otpTitle" = "Entrez l’OTP envoyé à l’e-mail";
+"receiveOtp" = "N’a pas reçu l’OTP?";
+"resendOtp" = "RENVOYER LE CODE OTP";
+"verifyAndProceedOtp" = "Vérifier et continuer";
+"terms" = "Conditions générales";
+"privacy" = "Politique de confidentialité";
+"myTrips" = "MES VOYAGES";
+"myRides" = "MES TRAJETS";
+"ride" = "Trajets";
+"upComing" = "À VENIR";
+"recent" = "RÉCENTS";
+"trips" = "Voyages";
+"editProfile" = "Modifier le profil";
+"profileDetails" = "Détails du profil";
+"phoneNo" = "Numéro de téléphone";
+"houseNo" = "Numéro de maison";
+"streetName" = "Nom de rue";
+"cityName" = "Ville";
+"stateName" = "État";
+"about" = "À propos";
+"updateProfile" = "Mettre à jour le profil";
+"vehicle" = "Véhicule";
+"addVehicle" = "+ Ajouter un véhicule";
+"emailVerifications" = "Vérification de l'e-mail";
+"verificationTitle" = "Les adresses e-mail suivantes sont associées à votre compte";
+"primary" = "Principal";
+"resendVerification" = "Renvoyer la vérification";
+"addAnotherEmail" = "+ Ajouter une autre adresse e-mail";
+"makePrimary" = "Définir comme principale";
+
+"idVerification" = "Vérification d'identité";
+"idVerificationTitle" = "Recevez un badge de vérification sur votre profil pour obtenir plus de réservations en renforçant la confiance avec les autres membres";
+"appearId" = "1. Saisissez votre nom tel qu'il apparaît sur votre pièce d'identité";
+"uploadId" = "2. Téléchargez une photo de pièce d'identité";
+"uploadIdTitle" = "Veuillez télécharger une photo numérisée de votre passeport, de votre permis de conduire ou de votre carte d'identité nationale";
+"idDestroyedTitle" = "Votre pièce d'identité sera détruite de nos serveurs une fois qu'elle aura été vérifiée";
+"uploadPhotoId" = "+ Télécharger une photo de pièce d'identité";
+"submitVerification" = "Envoyer la vérification";
+
+"payouts" = "Paiements";
+
+"walletEarning" = "Ganancia de billetera";
+
+"bankDetail" = "Détails bancaires";
+"yourName" = "Votre nom";
+"accountNo" = "Numéro de compte bancaire";
+"bankName" = "Nom de la banque";
+"saveBankDetail" = "Enregistrer les détails bancaires";
+
+"success" = "Succès !";
+"bankDetailUpdated" = "Détails bancaires mis à jour avec succès!";
+"help" = "Aide";
+
+"inbox" = "Boîte de réception";
+
+"postOrRequestTrip" = "Poster ou demander un voyage";
+"continue" = "Continuer";
+
+"postRequest" = "Poster une demande";
+"origin" = "Départ";
+"destination" = "Destination";
+"leaving" = "Départ";
+"seatRequired" = "Sièges nécessaires";
+"seats" = "Sièges";
+"description" = "Description";
+
+"findTrip" = "Trouver un voyage";
+"search" = "Rechercher";
+
+"tripDetail" = "Détails du voyage";
+"tripOpenClose" = "Voyage ouvert/fermé";
+"seatLeft" = "places restantes";
+"perSeat" = "par siège";
+"vehicleDetail" = "Détails du véhicule :";
+"bakeSide" = "Trois personnes à l'arrière";
+"luggage" = "Bagages moyens";
+"bikes" = "Vélos";
+"pets" = "Animaux domestiques";
+"showBoards" = "Afficher les panneaux";
+"tyres" = "Pneus";
+"pickup" = "Prise en charge";
+"dropOff" = "Dépôt";
+
+"addVehicle" = "Ajouter un véhicule";
+"selectVehicle" = "Sélectionner un véhicule";
+"vehicleType" = "Type de véhicule";
+"vehicleModel" = "Modèle du véhicule";
+"plateNumber" = "Numéro de plaque";
+"vehicleImage" = "Image du véhicule";
+"uploadPhoto" = "+ Télécharger une photo";
+"submit" = "Soumettre";
+
+"postTrip" = "Publier un trajet";
+
+"searchResults" = "Résultats de recherche";
+"postRequest" = "Publier une demande";
+"editTrip" = "Modifier le voyage";
+"tripDetails" = "Détails du voyage";
+
+"carInsurance" = "Assurance Automobile";
+"insuranceImage" = "Image d'assurance";
+"joined" = "Ingresado en";
+"govtIssueId" = "Identificación emitida por el gobierno";
+"phoneNumber" = "Número de teléfono";
+
+"more" = "Plus";
+"profile" = "Profil";

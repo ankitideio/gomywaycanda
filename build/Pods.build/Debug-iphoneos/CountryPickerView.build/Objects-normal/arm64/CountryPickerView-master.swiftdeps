@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "c24979510a88520713172cc5e3a57ff4603fca4d08579c5a355a85bb4332678a"
+build_start_time: [1670914618, 747798919]
+build_end_time: [1670914637, 617621898]
+inputs:
+  "/Users/apple/Documents/gomywayride/Pods/CountryPickerView/CountryPickerView/Bundle.swift": [1665134247, 0]
+  "/Users/apple/Documents/gomywayride/Pods/CountryPickerView/CountryPickerView/CountryPickerView.swift": [1665134247, 0]
+  "/Users/apple/Documents/gomywayride/Pods/CountryPickerView/CountryPickerView/CountryPickerViewController.swift": [1665134247, 0]
+  "/Users/apple/Documents/gomywayride/Pods/CountryPickerView/CountryPickerView/Delegate+DataSource.swift": [1665134247, 0]
+  "/Users/apple/Documents/gomywayride/Pods/CountryPickerView/CountryPickerView/Extensions.swift": [1665134247, 0]
+  "/Users/apple/Documents/gomywayride/Pods/CountryPickerView/CountryPickerView/NibView.swift": [1665134247, 0]

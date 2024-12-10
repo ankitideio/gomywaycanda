@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "1b4ac5a1b0df732c6e5d43947baa9b8c57eef49a4aa9bcbeecd93e08ec87db9b"
+build_start_time: [1670914615, 838796138]
+build_end_time: [1670914620, 888764858]
+inputs:
+  "/Users/apple/Documents/gomywayride/Pods/GrowingTextView/Sources/GrowingTextView/GrowingTextView.swift": [1664424418, 0]

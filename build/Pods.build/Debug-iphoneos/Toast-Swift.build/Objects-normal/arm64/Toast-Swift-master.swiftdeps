@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "ce7e858f18c42dd244df3145db419bea9577f955c8f070c76abbf8bd669d93bd"
+build_start_time: [1670914610, 857242107]
+build_end_time: [1670914614, 484761953]
+inputs:
+  "/Users/apple/Documents/gomywayride/Pods/Toast-Swift/Toast/Toast.swift": [1664428317, 0]

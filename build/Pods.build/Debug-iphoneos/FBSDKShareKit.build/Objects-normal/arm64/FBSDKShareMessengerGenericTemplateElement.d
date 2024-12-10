@@ -1,0 +1,56 @@
+dependencies: \
+  /Users/apple/Documents/gomywayride/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareMessengerGenericTemplateElement.m \
+  /Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FBSDKShareKit.build/module.modulemap \
+  /Users/apple/Documents/gomywayride/Pods/Target\ Support\ Files/FBSDKShareKit/FBSDKShareKit-prefix.pch \
+  /Users/apple/Documents/gomywayride/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareMessengerGenericTemplateElement.h \
+  /Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FBSDKCoreKit.build/module.modulemap \
+  /Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Bolts.build/module.modulemap \
+  /Users/apple/Documents/gomywayride/Pods/Bolts/Bolts/Common/Bolts.h \
+  /Users/apple/Documents/gomywayride/Pods/Bolts/Bolts/Common/BFTaskCompletionSource.h \
+  /Users/apple/Documents/gomywayride/Pods/Bolts/Bolts/Common/BFTask.h \
+  /Users/apple/Documents/gomywayride/Pods/Bolts/Bolts/Common/BFGeneric.h \
+  /Users/apple/Documents/gomywayride/Pods/Bolts/Bolts/Common/BFExecutor.h \
+  /Users/apple/Documents/gomywayride/Pods/Bolts/Bolts/Common/BFCancellationTokenSource.h \
+  /Users/apple/Documents/gomywayride/Pods/Bolts/Bolts/Common/BFCancellationTokenRegistration.h \
+  /Users/apple/Documents/gomywayride/Pods/Bolts/Bolts/Common/BFCancellationToken.h \
+  /Users/apple/Documents/gomywayride/Pods/Bolts/Bolts/iOS/BFWebViewAppLinkResolver.h \
+  /Users/apple/Documents/gomywayride/Pods/Bolts/Bolts/iOS/BFURL.h \
+  /Users/apple/Documents/gomywayride/Pods/Bolts/Bolts/iOS/BFMeasurementEvent.h \
+  /Users/apple/Documents/gomywayride/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.h \
+  /Users/apple/Documents/gomywayride/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererView.h \
+  /Users/apple/Documents/gomywayride/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererController.h \
+  /Users/apple/Documents/gomywayride/Pods/Bolts/Bolts/iOS/BFAppLinkResolving.h \
+  /Users/apple/Documents/gomywayride/Pods/Bolts/Bolts/iOS/BFAppLinkNavigation.h \
+  /Users/apple/Documents/gomywayride/Pods/Bolts/Bolts/iOS/BFAppLink.h \
+  /Users/apple/Documents/gomywayride/Pods/Target\ Support\ Files/Bolts/Bolts-umbrella.h \
+  /Users/apple/Documents/gomywayride/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppLink/FBSDKWebViewAppLinkResolver.h \
+  /Users/apple/Documents/gomywayride/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKURL.h \
+  /Users/apple/Documents/gomywayride/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfilePictureView.h \
+  /Users/apple/Documents/gomywayride/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfile.h \
+  /Users/apple/Documents/gomywayride/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMutableCopying.h \
+  /Users/apple/Documents/gomywayride/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMeasurementEvent.h \
+  /Users/apple/Documents/gomywayride/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphErrorRecoveryProcessor.h \
+  /Users/apple/Documents/gomywayride/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppLink/FBSDKAppLinkUtility.h \
+  /Users/apple/Documents/gomywayride/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppLink/FBSDKAppLinkReturnToRefererView.h \
+  /Users/apple/Documents/gomywayride/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppLink/FBSDKAppLinkReturnToRefererController.h \
+  /Users/apple/Documents/gomywayride/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppLink/FBSDKAppLinkResolver.h \
+  /Users/apple/Documents/gomywayride/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppLink/FBSDKAppLinkResolving.h \
+  /Users/apple/Documents/gomywayride/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppLink/FBSDKAppLinkNavigation.h \
+  /Users/apple/Documents/gomywayride/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppLink/FBSDKAppLinkTarget.h \
+  /Users/apple/Documents/gomywayride/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppLink/FBSDKAppLink.h \
+  /Users/apple/Documents/gomywayride/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKUtility.h \
+  /Users/apple/Documents/gomywayride/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKTestUsersManager.h \
+  /Users/apple/Documents/gomywayride/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKSettings.h \
+  /Users/apple/Documents/gomywayride/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMacros.h \
+  /Users/apple/Documents/gomywayride/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestDataAttachment.h \
+  /Users/apple/Documents/gomywayride/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequest.h \
+  /Users/apple/Documents/gomywayride/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppEvents/FBSDKAppEvents.h \
+  /Users/apple/Documents/gomywayride/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit.h \
+  /Users/apple/Documents/gomywayride/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKConstants.h \
+  /Users/apple/Documents/gomywayride/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKButton.h \
+  /Users/apple/Documents/gomywayride/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKApplicationDelegate.h \
+  /Users/apple/Documents/gomywayride/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestConnection.h \
+  /Users/apple/Documents/gomywayride/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKCopying.h \
+  /Users/apple/Documents/gomywayride/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAccessToken.h \
+  /Users/apple/Documents/gomywayride/Pods/Target\ Support\ Files/FBSDKCoreKit/FBSDKCoreKit-umbrella.h \
+  /Users/apple/Documents/gomywayride/Pods/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit/FBSDKShareMessengerActionButton.h

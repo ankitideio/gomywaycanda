@@ -1,0 +1,155 @@
+/* 
+  Localizable.strings
+  gomywayride
+
+  Created by meet sharma on 22/08/23.
+  Copyright © 2023 Snow-Macmini-1. All rights reserved.
+*/
+
+"login" = "LOGIN";
+"userName" = "Email/Username";
+"password" = "Password";
+"rememberMe" = "Remember me";
+"forgotPassword" = "Forgot Password?";
+"alreadyAccount" = "Already have an account?";
+"registerHere" = "Register here!";
+"register" = "REGISTER";
+"firstName" = "First Name";
+"lastName" = "Last Name";
+"userName" = "Username";
+"dateOfBirth" = "Date of birth";
+"emailAddress" = "Email Address";
+"uploadProfile" = "Upload profile photo";
+"uploadIdProof" = "Upload id proof photo";
+"gender" = "Gender";
+"male" = "Male";
+"female" = "Female";
+"others" = "Others";
+"iamDriver" = "I am Driver";
+"signup" = "SIGNUP";
+"loginHere" = "Login Here!";
+"forgotYourPassword" = "Forgot your password";
+"forgotPasswordTitle" = "Enter your email address below to recieve reset password instruction";
+"resendLink" = "SEND RESET LINK";
+"back" = "Back";
+"phoneVerification" = "Phone Number Verification";
+"phoneVerifyTitle" = "Enter your phone number to get the verification code in your email";
+"verifyCodeText" = "You will recieve a verification code in your email to verify this phone number";
+"chooseCountryCode" = "Choose country code";
+"enterMobileNumber" = "Enter your mobile number";
+"verify" = "Verify";
+"logout" = "Logout";
+"verifyEmail" = "Verify your email";
+"verifyEmailTitle" = "Email verification successfully sent to your email";
+"emailVerification" = "Please verify your email we have sent you";
+"resendVerification" = "Resend Verification Again";
+"changeLanguage" = "Change Language";
+"verifyOtp" = "OTP Verification";
+"otpTitle" = "Enter the OTP sent to the email";
+"receiveOtp" = "Didn't receive the OTP?";
+"resendOtp" = "RESEND OTP";
+"verifyAndProceedOtp" = "Verify & Proceed";
+"terms" = "Terms";
+"privacy" = "Privacy policy";
+"myTrips" = "MY TRIPS";
+"myRides" = "MY RIDES";
+"ride" = "Rides";
+"upComing" = "UPCOMING";
+"recent" = "RECENT";
+"trips" = "Trips";
+ "editProfile" = "Edit Profile";
+"profileDetails" = "Profile Details";
+"phoneNo" = "Phone No";
+"houseNo" = "House No";
+"streetName" = "Street Name";
+"cityName" = "City Name";
+"stateName" = "State Name";
+"about" = "About";
+"updateProfile" = "Update Profile";
+"vehicle" = "Vehicle";
+"addVehicle" = "+Add Vehicle";
+"emailVerifications" = "Email Verification";
+"verificationTitle" = "The following email address are associated with your account";
+"primary" = "Primary";
+"resendVerification" = "Re-Send Verification";
+"addAnotherEmail" = "+ Add Another email";
+"makePrimary" = "Make Primary";
+
+"idVerification" = "ID Verification";
+"idVerificationTitle" = "Recive a verification badge on your profile to get more bookings by increasing trust with other members";
+"appearId" = "1. Enter your name as it appears on your ID";
+"uploadId" = "2. Upload a photo ID";
+"uploadIdTitle" = "Please upload a scan photo of your passport,driver's license or national ID card";
+"idDestroyedTitle" = "Your ID will be destroyed from our servers after it has been verified";
+"uploadPhotoId" = "+ Upload Photo ID";
+"submitVerification" = "Submit Verification";
+
+"payouts" = "Payouts";
+
+"walletEarning" = "Wallet Earning";
+
+"bankDetail" = "Bank Detail";
+"yourName" = "Your Name";
+"accountNo" = "Bank Account Number";
+"bankName" = "Bank Name";
+"saveBankDetail" = "Save Bank Detail";
+
+"success" = "Success!";
+"bankDetailUpdated" = "Bank Detail Updated Successfully!";
+"help" = "Help";
+
+"inbox" = "Inbox";
+
+"postOrRequestTrip" = "Post or Request Trip";
+"continue" = "Continue";
+
+"postRequest" = "Post Request";
+"origin" = "Origin";
+"destination" = "Destination";
+"leaving" = "Leaving";
+"seatRequired" = "Seats Required";
+"seats" = "Seats";
+"description" = "Description";
+
+
+"findTrip" = "Find a Trip";
+"search" = "Search";
+
+"tripDetail" = "Trip Details";
+"tripOpenClose" = "Trip Open/Close";
+"seatLeft" = "seats left";
+"perSeat" = "per seat";
+"vehicleDetail" = "Vehicle Details:";
+"bakeSide" = "Three People in the back";
+"luggage" = "Medium Luggage";
+"bikes" = "Bikes";
+"pets" = "Pets";
+"showBoards" = "Show Borads";
+"tyres" = "Tyres";
+"pickup" = "Pickup";
+"dropOff" = "Drop-off";
+
+"addVehicle" = "Add Vehicle";
+"selectVehicle" = "Select Vehicle";
+"vehicleType" = "Vehicle Type";
+"vehicleModel" = "Vehicle Model";
+"plateNumber" = "Plate Number";
+"vehicleImage" = "Vehicle Image";
+"uploadPhoto" = "+ Upload Photo";
+"submit" = "Submit";
+
+"postTrip" = "Post a Trip";
+"editTrip" = "Edit Trip";
+"searhResults" = "Search Results";
+"postRequest" = "Post a Request";
+"tripDetails" = "Trip Details";
+
+"carInsurance" = "Car Insurance";
+"insuranceImage" = "Insurance Image";
+
+"joined" = "Joined";
+"govtIssueId" = "Government issued ID";
+"phoneNumber" = "Phone Number";
+
+"more" = "More";
+"profile" = "Profile";

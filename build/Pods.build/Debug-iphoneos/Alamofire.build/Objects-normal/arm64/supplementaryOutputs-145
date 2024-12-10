@@ -1,0 +1,25 @@
+"/Users/apple/Documents/gomywayride/Pods/Alamofire/Source/CachedResponseHandler.swift":
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/CachedResponseHandler.d"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/CachedResponseHandler.o"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/CachedResponseHandler.dia"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/CachedResponseHandler.swiftdeps"
+"/Users/apple/Documents/gomywayride/Pods/Alamofire/Source/AlamofireExtended.swift":
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/AlamofireExtended.swiftdeps"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/AlamofireExtended.d"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/AlamofireExtended.dia"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/AlamofireExtended.o"
+"/Users/apple/Documents/gomywayride/Pods/Alamofire/Source/Alamofire.swift":
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Alamofire.swiftdeps"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Alamofire.dia"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Alamofire.d"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Alamofire.o"
+"/Users/apple/Documents/gomywayride/Pods/Alamofire/Source/AuthenticationInterceptor.swift":
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/AuthenticationInterceptor.dia"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/AuthenticationInterceptor.swiftdeps"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/AuthenticationInterceptor.d"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/AuthenticationInterceptor.o"
+"/Users/apple/Documents/gomywayride/Pods/Alamofire/Source/AFError.swift":
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/AFError.swiftdeps"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/AFError.d"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/AFError.o"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/AFError.dia"

@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "8fa9be6a215f3930b09f0123c6c52e720605980810fb789167430efda40d5594"
+build_start_time: [1670914614, 877863883]
+build_end_time: [1670914618, 514312028]
+inputs:
+  "/Users/apple/Documents/gomywayride/Pods/MXSegmentedControl/MXSegmentedControl/MXIndicator.swift": [1664424418, 0]
+  "/Users/apple/Documents/gomywayride/Pods/MXSegmentedControl/MXSegmentedControl/MXSegment.swift": [1664424418, 0]
+  "/Users/apple/Documents/gomywayride/Pods/MXSegmentedControl/MXSegmentedControl/MXSegmentedControl.swift": [1664424418, 0]

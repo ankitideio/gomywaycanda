@@ -1,0 +1,20 @@
+"/Users/apple/Documents/gomywayride/Pods/Alamofire/Source/ResponseSerialization.swift":
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ResponseSerialization.dia"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ResponseSerialization.o"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ResponseSerialization.d"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ResponseSerialization.swiftdeps"
+"/Users/apple/Documents/gomywayride/Pods/Alamofire/Source/RetryPolicy.swift":
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RetryPolicy.o"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RetryPolicy.swiftdeps"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RetryPolicy.dia"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RetryPolicy.d"
+"/Users/apple/Documents/gomywayride/Pods/Alamofire/Source/ServerTrustEvaluation.swift":
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ServerTrustEvaluation.o"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ServerTrustEvaluation.dia"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ServerTrustEvaluation.d"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ServerTrustEvaluation.swiftdeps"
+"/Users/apple/Documents/gomywayride/Pods/Alamofire/Source/Result+Alamofire.swift":
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Result+Alamofire.dia"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Result+Alamofire.swiftdeps"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Result+Alamofire.d"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Result+Alamofire.o"

@@ -1,0 +1,6 @@
+framework module Pods_gomywayride {
+  umbrella header "Pods-gomywayride-umbrella.h"
+
+  export *
+  module * { export * }
+}

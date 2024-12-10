@@ -1,0 +1,25 @@
+"/Users/apple/Documents/gomywayride/Pods/FacebookShare/Sources/Share/Internal/ShareResultKeys.swift":
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/ShareResultKeys.o"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/ShareResultKeys.d"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/ShareResultKeys.swiftdeps"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/ShareResultKeys.dia"
+"/Users/apple/Documents/gomywayride/Pods/FacebookShare/Sources/Share/Content/Video/VideoShareContent.swift":
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/VideoShareContent.o"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/VideoShareContent.swiftdeps"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/VideoShareContent.d"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/VideoShareContent.dia"
+"/Users/apple/Documents/gomywayride/Pods/FacebookShare/Sources/Share/Content/Video/Video.swift":
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/Video.d"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/Video.o"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/Video.swiftdeps"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/Video.dia"
+"/Users/apple/Documents/gomywayride/Pods/FacebookShare/Sources/Share/Dialogs/ShareDialog/ShareDialogMode.swift":
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/ShareDialogMode.o"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/ShareDialogMode.d"
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/ShareDialogMode.swiftdeps"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/ShareDialogMode.dia"
+"/Users/apple/Documents/gomywayride/Pods/FacebookShare/Sources/Share/ShareError.swift":
+  swift-dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/ShareError.swiftdeps"
+  object: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/ShareError.o"
+  dependencies: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/ShareError.d"
+  diagnostics: "/Users/apple/Documents/gomywayride/build/Pods.build/Debug-iphoneos/FacebookShare.build/Objects-normal/arm64/ShareError.dia"

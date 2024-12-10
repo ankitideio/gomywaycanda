@@ -1,0 +1,10 @@
+framework module MXSegmentedControl {
+  umbrella header "MXSegmentedControl-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module MXSegmentedControl.__Swift {
+  exclude header "MXSegmentedControl-Swift.h"
+}

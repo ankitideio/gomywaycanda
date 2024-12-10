@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "daa276ffdca3f16e45110afdacf8f3bbe358ddf38e03ef76bcf5e850734b4cb8"
+build_start_time: [1670914611, 80703020]
+build_end_time: [1670914614, 934133052]
+inputs:
+  "/Users/apple/Documents/gomywayride/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [1664424418, 0]
